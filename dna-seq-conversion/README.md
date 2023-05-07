@@ -4,10 +4,10 @@ This Python program converts a binary file encoding sequencing information to a 
 
 ## Binary file structure
 - each read is represented by L consecutive bytes, and reads appear consecutively
-- the first 2 bits of each byte represent the base:
-  00 - A
-  01 - C
-  10 - G
+- the first 2 bits of each byte represent the base:  
+  00 - A  
+  01 - C  
+  10 - G  
   11 - T
 - the last 6 bits of each byte represent an integer, which is the quality score for that byte's base
 
