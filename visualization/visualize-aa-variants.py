@@ -14,6 +14,23 @@ def get_args():
     parser.add_argument('-o', '--output', help='Path to output PNG file.', required=True, type=str)
     return parser.parse_args()
 
+def add_wt_to_df(wildtype_seq, dataframe):
+    '''Takes a wildtype sequence and existing dataframe, and adds one entry per amino acid to the dataframe, with the variant score equal to 1.'''
+    position_list = []
+    substitution_list = []
+    score_list = []
+    for i, aa in enumerate(wildtype_seq):
+        position_list.append(i+1) # we are using 1-based indexing for position in sequence
+        substitution_list.append(aa)
+        score_list.append(1)
+    wildtype_df = pd.DataFrame(
+        {'position': position_list,
+        'substitution': substitution_list,
+        'score': score_list}
+        )
+    new_df = pd.concat([dataframe, wildtype_df]) # combine existing dataframe with new wildtype dataframe
+    return new_df
+
 args = get_args()
 
 # create Path objects
@@ -31,15 +48,13 @@ df = pd.DataFrame(json_array)
 with open(seq_path, 'r') as fh:
     wt_seq = fh.read()
 
+# check that wildtype sequence does not exceed 40 amino acids
+seq_len = len(wt_seq)
+if seq_len > 40:
+    raise SystemExit('Error: Length of wildtype sequence exceeds limit (40 amino acids).')
+
 # add wildtype entries to df to differentiate them from truly missing values
-for i,aa in enumerate(wt_seq):
-    df = df.append({
-        'position': i+1, # we are using 1-based indexing for position in sequence
-        'substitution': aa,
-        'score': 1 # score of wildtype amino acid is 1 by default
-    },
-    ignore_index=True
-    )
+df = add_wt_to_df(wt_seq, df)
 
 # pivot wide
 df_wide = df.pivot(index='substitution', columns='position', values='score')
