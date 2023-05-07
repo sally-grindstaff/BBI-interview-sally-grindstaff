@@ -1,0 +1,477 @@
+[
+    {
+        "position": 1,
+        "substitution": "D",
+        "score": 1.5961597654968696
+    },
+    {
+        "position": 1,
+        "substitution": "N",
+        "score": 0.3319537414674685
+    },
+    {
+        "position": 1,
+        "substitution": "L",
+        "score": 0.5068006422792317
+    },
+    {
+        "position": 1,
+        "substitution": "A",
+        "score": 0.6959603917201607
+    },
+    {
+        "position": 1,
+        "substitution": "K",
+        "score": 0.8181425042414165
+    },
+    {
+        "position": 1,
+        "substitution": "V",
+        "score": -0.08882651188439383
+    },
+    {
+        "position": 1,
+        "substitution": "W",
+        "score": 4.810589830805956e-05
+    },
+    {
+        "position": 1,
+        "substitution": "F",
+        "score": 0.32439412221082775
+    },
+    {
+        "position": 1,
+        "substitution": "R",
+        "score": -0.48932853503339835
+    },
+    {
+        "position": 1,
+        "substitution": "E",
+        "score": 1.3863448642902223
+    },
+    {
+        "position": 1,
+        "substitution": "H",
+        "score": 0.11437574739128598
+    },
+    {
+        "position": 1,
+        "substitution": "C",
+        "score": -0.01280967558052215
+    },
+    {
+        "position": 1,
+        "substitution": "I",
+        "score": -0.17530511429437012
+    },
+    {
+        "position": 1,
+        "substitution": "Q",
+        "score": 1.0123011535422357
+    },
+    {
+        "position": 1,
+        "substitution": "P",
+        "score": 1.7919896735276737
+    },
+    {
+        "position": 1,
+        "substitution": "T",
+        "score": -0.1796907859453447
+    },
+    {
+        "position": 1,
+        "substitution": "G",
+        "score": 0.23265662148341315
+    },
+    {
+        "position": 1,
+        "substitution": "S",
+        "score": 1.1134880345949485
+    },
+    {
+        "position": 1,
+        "substitution": "Y",
+        "score": 2.2694208107220315
+    },
+    {
+        "position": 2,
+        "substitution": "D",
+        "score": 1.0610574211463542
+    },
+    {
+        "position": 2,
+        "substitution": "N",
+        "score": 1.3373239238962102
+    },
+    {
+        "position": 2,
+        "substitution": "L",
+        "score": 2.104945878736665
+    },
+    {
+        "position": 2,
+        "substitution": "K",
+        "score": -0.4540641220839653
+    },
+    {
+        "position": 2,
+        "substitution": "V",
+        "score": 0.2908961933943115
+    },
+    {
+        "position": 2,
+        "substitution": "W",
+        "score": 1.3242921604285036
+    },
+    {
+        "position": 2,
+        "substitution": "F",
+        "score": 0.38137338449788794
+    },
+    {
+        "position": 2,
+        "substitution": "M",
+        "score": 0.5790890770054395
+    },
+    {
+        "position": 2,
+        "substitution": "R",
+        "score": 1.2932956341713102
+    },
+    {
+        "position": 2,
+        "substitution": "E",
+        "score": 1.647756766542134
+    },
+    {
+        "position": 2,
+        "substitution": "H",
+        "score": 0.5760129962711886
+    },
+    {
+        "position": 2,
+        "substitution": "C",
+        "score": 0.4541245079881331
+    },
+    {
+        "position": 2,
+        "substitution": "I",
+        "score": 2.2695898604263878
+    },
+    {
+        "position": 2,
+        "substitution": "Q",
+        "score": 2.3618733518409964
+    },
+    {
+        "position": 2,
+        "substitution": "P",
+        "score": 2.1198490071704916
+    },
+    {
+        "position": 2,
+        "substitution": "T",
+        "score": -0.3539479235408891
+    },
+    {
+        "position": 2,
+        "substitution": "G",
+        "score": 0.580189444842329
+    },
+    {
+        "position": 2,
+        "substitution": "S",
+        "score": -0.29140877256759
+    },
+    {
+        "position": 2,
+        "substitution": "Y",
+        "score": 0.30551467597242854
+    },
+    {
+        "position": 3,
+        "substitution": "D",
+        "score": 2.024172683617167
+    },
+    {
+        "position": 3,
+        "substitution": "N",
+        "score": 1.481541125613824
+    },
+    {
+        "position": 3,
+        "substitution": "L",
+        "score": -0.47018051759017454
+    },
+    {
+        "position": 3,
+        "substitution": "A",
+        "score": 0.011218348291238356
+    },
+    {
+        "position": 3,
+        "substitution": "K",
+        "score": 0.9840563853833841
+    },
+    {
+        "position": 3,
+        "substitution": "V",
+        "score": 0.11873079123586783
+    },
+    {
+        "position": 3,
+        "substitution": "W",
+        "score": 2.08092588642757
+    },
+    {
+        "position": 3,
+        "substitution": "F",
+        "score": 0.999264619034167
+    },
+    {
+        "position": 3,
+        "substitution": "M",
+        "score": 2.1847906565992226
+    },
+    {
+        "position": 3,
+        "substitution": "E",
+        "score": -0.4668691970455402
+    },
+    {
+        "position": 3,
+        "substitution": "H",
+        "score": 0.8460524672440872
+    },
+    {
+        "position": 3,
+        "substitution": "C",
+        "score": 1.2729399788848386
+    },
+    {
+        "position": 3,
+        "substitution": "I",
+        "score": 1.043342813937215
+    },
+    {
+        "position": 3,
+        "substitution": "Q",
+        "score": -0.33557249064698225
+    },
+    {
+        "position": 3,
+        "substitution": "P",
+        "score": 2.23970286726593
+    },
+    {
+        "position": 3,
+        "substitution": "T",
+        "score": -0.12481843677465498
+    },
+    {
+        "position": 3,
+        "substitution": "G",
+        "score": 1.7340516834186808
+    },
+    {
+        "position": 3,
+        "substitution": "S",
+        "score": 1.763449180627319
+    },
+    {
+        "position": 3,
+        "substitution": "Y",
+        "score": 1.1842143415670887
+    },
+    {
+        "position": 4,
+        "substitution": "D",
+        "score": 2.0056561864143507
+    },
+    {
+        "position": 4,
+        "substitution": "L",
+        "score": 0.011952341891517948
+    },
+    {
+        "position": 4,
+        "substitution": "A",
+        "score": -0.19763490920049964
+    },
+    {
+        "position": 4,
+        "substitution": "K",
+        "score": 0.36879215321839875
+    },
+    {
+        "position": 4,
+        "substitution": "V",
+        "score": 2.4178634349221597
+    },
+    {
+        "position": 4,
+        "substitution": "W",
+        "score": -0.18576990539201998
+    },
+    {
+        "position": 4,
+        "substitution": "F",
+        "score": -0.009799698291422576
+    },
+    {
+        "position": 4,
+        "substitution": "M",
+        "score": 2.2749431173251606
+    },
+    {
+        "position": 4,
+        "substitution": "R",
+        "score": 2.0246607925888234
+    },
+    {
+        "position": 4,
+        "substitution": "E",
+        "score": 0.5018292350806108
+    },
+    {
+        "position": 4,
+        "substitution": "H",
+        "score": 2.4448741631576523
+    },
+    {
+        "position": 4,
+        "substitution": "C",
+        "score": 1.7741498293726705
+    },
+    {
+        "position": 4,
+        "substitution": "I",
+        "score": 1.4602938370562832
+    },
+    {
+        "position": 4,
+        "substitution": "Q",
+        "score": -0.49494152120028123
+    },
+    {
+        "position": 4,
+        "substitution": "P",
+        "score": 2.4076665590244426
+    },
+    {
+        "position": 4,
+        "substitution": "T",
+        "score": 0.7133780503545504
+    },
+    {
+        "position": 4,
+        "substitution": "G",
+        "score": 2.2187656135876166
+    },
+    {
+        "position": 4,
+        "substitution": "S",
+        "score": 2.027686306494684
+    },
+    {
+        "position": 4,
+        "substitution": "Y",
+        "score": 0.45849712631873873
+    },
+    {
+        "position": 5,
+        "substitution": "N",
+        "score": 1.081022106823334
+    },
+    {
+        "position": 5,
+        "substitution": "L",
+        "score": 1.826488994741442
+    },
+    {
+        "position": 5,
+        "substitution": "A",
+        "score": 1.4924711338376242
+    },
+    {
+        "position": 5,
+        "substitution": "K",
+        "score": 0.8517696108308432
+    },
+    {
+        "position": 5,
+        "substitution": "V",
+        "score": 0.6299967809700227
+    },
+    {
+        "position": 5,
+        "substitution": "W",
+        "score": -0.0815747664342672
+    },
+    {
+        "position": 5,
+        "substitution": "F",
+        "score": -0.01232015215251081
+    },
+    {
+        "position": 5,
+        "substitution": "M",
+        "score": 1.823299121540078
+    },
+    {
+        "position": 5,
+        "substitution": "R",
+        "score": 2.486122999036131
+    },
+    {
+        "position": 5,
+        "substitution": "E",
+        "score": 2.3948885416682035
+    },
+    {
+        "position": 5,
+        "substitution": "H",
+        "score": 2.2147662353830553
+    },
+    {
+        "position": 5,
+        "substitution": "C",
+        "score": 1.0803477511133739
+    },
+    {
+        "position": 5,
+        "substitution": "I",
+        "score": 1.586049279666634
+    },
+    {
+        "position": 5,
+        "substitution": "Q",
+        "score": 1.971576034829107
+    },
+    {
+        "position": 5,
+        "substitution": "P",
+        "score": 0.554963578303314
+    },
+    {
+        "position": 5,
+        "substitution": "T",
+        "score": 1.4794150032111213
+    },
+    {
+        "position": 5,
+        "substitution": "G",
+        "score": -0.30250990664521793
+    },
+    {
+        "position": 5,
+        "substitution": "S",
+        "score": 1.388570117078364
+    },
+    {
+        "position": 5,
+        "substitution": "Y",
+        "score": 0.2528059533248085
+    }
+]
