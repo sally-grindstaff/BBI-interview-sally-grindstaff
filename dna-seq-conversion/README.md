@@ -18,6 +18,6 @@ The resulting FASTQ uses Phred+33 encoding
 - Python 3
 
 ## How to use
-Run dna-seq-conversion.py from the command line:
-./dna-seq-conversion.py [-h] -i INPUT_FILE -L LENGTH [-o OUTPUT_FILE]
+Run dna-seq-conversion.py from the command line:  
+./dna-seq-conversion.py [-h] -i INPUT_FILE -L LENGTH [-o OUTPUT_FILE]  
 Run ./dna-seq-conversion.py -h for more details.
