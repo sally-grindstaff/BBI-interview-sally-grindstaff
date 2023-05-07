@@ -38,4 +38,5 @@ Usage:
 ./visualize-aa-variants.py [-h] -s SEQUENCE -a ARRAY -o OUTPUT
 
 ## Run interactively
-To run interactively, open visualize-aa-variants.ipynb as a Jupyter Notebook and enter array (using structure described in above section) and wildtype sequence manually, or enter filepaths. This option does not save the heatmap as a PNG, but displays it interactively in the notebook.
+To run interactively, open visualize-aa-variants.ipynb as a Jupyter Notebook and enter array (using structure described in above section) and wildtype sequence manually, or enter filepaths. This option does not save the heatmap as a PNG, but displays it interactively in the notebook.  
+If the requirements for this program are installed in a conda environment, that conda environment can be selected under 'Kernel' while the notebook is open, provided that nb_conda is installed in the environment that was used to open the notebook.
